@@ -5,7 +5,7 @@ First install the [collection on the nexus](https://next.nexusmods.com/baldursga
 
 ---
 
-### HOW TO INSTALL
+### How to set up the correct load order:
 
 - Download the File from the releases tab.
 - Extract the .json file.
